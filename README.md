@@ -18,11 +18,6 @@
 详情页 detail
 ...
 ```
-:label: 封装组件componets：
-```javascript
-搜索器
-swiper
-water-flow 瀑布流，小程序换肤背景图， 使得小程序不简洁，已经下线
 ...
 ```
 :art::art::art: 截图部分展示：
